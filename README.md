@@ -32,7 +32,7 @@ I am a **Lecturer II** in the **Geomatics Engineering Department** at **Copperbe
 ## 🔬 Current Work
 
 ### Academic Responsibilities
-- Teaching **Digital Photogrammetry** (GE 350), **Numerical Methods for Geomatics** (GE 410), and **Advanced Topics in Geomatics** (GE 550)
+- Teaching **Digital Photogrammetry** (GE 422), **Numerical Methods for Geomatics** (GE 410), and **Advanced Topics in Geomatics** (GE 550)
 - Supervising final year research projects (GE 500)
 - Curriculum development and departmental administration
 - Research supervision with focus on LULC dynamics and environmental monitoring
