@@ -116,7 +116,7 @@ I am a **Lecturer II** in the **Geomatics Engineering Department** at **Copperbe
 ## 🎓 Teaching & Mentorship
 
 ### Courses Taught
-- **GE 350** - Digital Photogrammetry
+- **GE 422** - Digital Photogrammetry
 - **GE 410** - Numerical Methods for Geomatics
 - **GE 550** - Advanced Topics in Geomatics
 - **GE 500** - Final Year Project Supervision
