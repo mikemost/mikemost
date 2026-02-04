@@ -163,15 +163,13 @@ I'm interested in collaborating on:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
+[![Michael's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mikemost&theme=github-compact)](https://github.com/mikemost)
 
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikemost&show_icons=true&theme=default&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikemost&theme=default)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemost&layout=compact&theme=default&hide_border=true)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=mikemost&color=blue)
 
 ---
 
