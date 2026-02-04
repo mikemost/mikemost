@@ -167,7 +167,7 @@ I'm interested in collaborating on:
 
 [![Michael's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mikemost&theme=github-compact)](https://github.com/mikemost)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mikemost)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mikemost&theme=github-dark-blue&hide_border=true)](https://github.com/mikemost)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mikemost&color=blue)
 
