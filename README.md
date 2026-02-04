@@ -167,7 +167,7 @@ I'm interested in collaborating on:
 
 <div align="center">
 
-[![Michael's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mikemost&theme=react-dark&hide_border=true)](https://github.com/mikemost)
+[![Michael's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mikemost&theme=github-compact)](https://github.com/mikemost)
 
 <br/>
 
