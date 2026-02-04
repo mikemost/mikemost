@@ -163,13 +163,21 @@ I'm interested in collaborating on:
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Presence
 
-[![Michael's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mikemost&theme=github-compact)](https://github.com/mikemost)
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mikemost&theme=default)](https://github.com/mikemost)
+[![Michael's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=mikemost&theme=react-dark&hide_border=true)](https://github.com/mikemost)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mikemost&color=blue)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mikemost&color=brightgreen&style=flat-square&label=Profile+Views)
+[![Followers](https://img.shields.io/github/followers/mikemost?label=Followers&style=flat-square&color=blue)](https://github.com/mikemost?tab=followers)
+[![Stars](https://img.shields.io/github/stars/mikemost?label=Total+Stars&style=flat-square&color=yellow)](https://github.com/mikemost?tab=repositories)
+
+**Active contributor focusing on geospatial analysis, Python libraries, and web applications**
+
+</div>
 
 ---
 
