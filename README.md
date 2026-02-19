@@ -96,14 +96,14 @@ I am a **Lecturer II** in the **Geomatics Engineering Department** at **Copperbe
 
 ## 📚 Recent Conference Presentations
 
-**2024-2025:**
-- **Conference on Land Policy in Africa** (January 2025) - Addis Ababa, Ethiopia
+**2025-2026:**
+- **Conference on Land Policy in Africa** (November 2025) - Addis Ababa, Ethiopia
   - Presented research on land governance and spatial analysis
   
-- **AGSE 2025 International Conference** (December 2024) - Bogotá, Colombia
+- **AGSE 2025 International Conference** (September 2025) - Bogotá, Colombia
   - Advanced Geomatics for Science and Engineering applications
   
-- **DAAD Regional Alumni Conference** (November 2024) - Lusaka, Zambia
+- **DAAD Regional Alumni Conference** (August 2025) - Lusaka, Zambia
   - Shared insights on geomatics research and international collaboration
 
 **Upcoming:**
